@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "Reunión en el colegio",
+      "day": "Jueves 11:00hs",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Almuerzo de trabajo",
+      "day": "Viernes 13:00hs",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}
